@@ -1,20 +1,16 @@
-# Привет, я Максимилиан 👋
+# I'd like to welcome you to my rust society. I'm Maximilian 👋
 
 <div align="center">
 
 **Backend Developer | Rust • Python • C++**
 
-Студент СПбГУАП (09.03.03), увлечённый системным программированием, формальными языками и чистым бэкендом.
-Открыт к интересным проектам и предложениям.
-
-[![GitHub](https://img.shields.io/badge/GitHub-max1m111an-181717?style=flat&logo=github)](https://github.com/max1m111an)
-[![Location](https://img.shields.io/badge/📍-Saint--Petersburg-blue?style=flat)]()
+SUAI student of Applied Informatics (09.03.03(1)), interested in system programming, especially backend development, designing databases and API.
 
 </div>
 
 ---
 
-## 🛠️ Технологический стек
+## Stack
 
 <div align="center">
 
@@ -30,23 +26,11 @@
 
 ---
 
-## 📬 Связаться со мной
+## My Links
 
 <div align="center">
-
-Открыт к сотрудничеству, стажировкам и интересным проектам на Rust / Python / C++.
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/@begmac75)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](begunovmax100@gmail.com)
-
-</div>
-
----
-
-<div align="center">
-
-*«My bros: Rust, Python, C++. Overmilked with job world.»*
-
-⭐️ Не стесняйтесь ставить звёзды проектам, которые вам понравились!
 
 </div>
